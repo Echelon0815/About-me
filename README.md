@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Echelon0815
+- 🌱 I’m currently learning html,css,javascript
+- 📫 You can reach me at jack.w886@gmail.com
