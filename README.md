@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Echelon0815 / 俊傑 / (Chun-Chieh)
-- 🌱 I’m currently learning about html/css/js...
+- 🌱 I’m currently learning about Front-end development.
+- 🌱 Currently using React.js and Node.js for learning and Looking for career opportunities.
 - 📫 You can reach me at jack.w886@gmail.com
-
-  更新於 2022/09/13
